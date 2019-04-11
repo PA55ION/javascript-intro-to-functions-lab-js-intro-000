@@ -24,3 +24,7 @@ function sayHiToGrandma(string) {
         if (string === 'I love you, Grandma')
           return 'I love you, too.';
 }
+
+sayHiToGrandma('hello');
+sayHiToGrandma('Hello');
+sayHiToGrandma('I love you, Grandma');
